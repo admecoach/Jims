@@ -21,7 +21,7 @@ echo -e " \033[32;5m                                                           \
 #############################################
 
 # Version of Kube-VIP to deploy
-KVVERSION="v0.6.3"
+KVVERSION="v0.8.0"
 
 # K3S Version
 k3sVersion="v1.26.10+k3s2"
